@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "B1",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "B1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-B1-Debug-26533089d537855045ae.json",
+					"name" : "B1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Germanium::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Germanium-Debug-c0e72e831d313df42513.json",
+					"name" : "Germanium",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/hlemineu/OneDrive - Université de Namur/Documents/Master/Master 2/Simulation de dose/Examen/Germanium/out/build/x64-Debug",
+		"source" : "C:/Users/hlemineu/OneDrive - Université de Namur/Documents/Master/Master 2/Simulation de dose/Examen/Germanium"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

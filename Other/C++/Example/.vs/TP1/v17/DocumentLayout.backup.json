@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hlemineu\\OneDrive - Universit\u00E9 de Namur\\Documents\\Master\\Master 2\\Simulation de dose\\TP1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAABAB01-EFAC-4FE8-AE2F-CEB3A74B72E3}|TP1.vcxproj|C:\\Users\\hlemineu\\OneDrive - Universit\u00E9 de Namur\\Documents\\Master\\Master 2\\Simulation de dose\\TP1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAABAB01-EFAC-4FE8-AE2F-CEB3A74B72E3}|TP1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAABAB01-EFAC-4FE8-AE2F-CEB3A74B72E3}|TP1.vcxproj|C:\\Users\\hlemineu\\OneDrive - Universit\u00E9 de Namur\\Documents\\Master\\Master 2\\Simulation de dose\\TP1\\Arme.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAABAB01-EFAC-4FE8-AE2F-CEB3A74B72E3}|TP1.vcxproj|solutionrelative:Arme.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAABAB01-EFAC-4FE8-AE2F-CEB3A74B72E3}|TP1.vcxproj|C:\\Users\\hlemineu\\OneDrive - Universit\u00E9 de Namur\\Documents\\Master\\Master 2\\Simulation de dose\\TP1\\Mage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAABAB01-EFAC-4FE8-AE2F-CEB3A74B72E3}|TP1.vcxproj|solutionrelative:Mage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAABAB01-EFAC-4FE8-AE2F-CEB3A74B72E3}|TP1.vcxproj|C:\\Users\\hlemineu\\OneDrive - Universit\u00E9 de Namur\\Documents\\Master\\Master 2\\Simulation de dose\\TP1\\Arme.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAABAB01-EFAC-4FE8-AE2F-CEB3A74B72E3}|TP1.vcxproj|solutionrelative:Arme.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAABAB01-EFAC-4FE8-AE2F-CEB3A74B72E3}|TP1.vcxproj|C:\\Users\\hlemineu\\OneDrive - Universit\u00E9 de Namur\\Documents\\Master\\Master 2\\Simulation de dose\\TP1\\Mage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAABAB01-EFAC-4FE8-AE2F-CEB3A74B72E3}|TP1.vcxproj|solutionrelative:Mage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAABAB01-EFAC-4FE8-AE2F-CEB3A74B72E3}|TP1.vcxproj|C:\\Users\\hlemineu\\OneDrive - Universit\u00E9 de Namur\\Documents\\Master\\Master 2\\Simulation de dose\\TP1\\Armure.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAABAB01-EFAC-4FE8-AE2F-CEB3A74B72E3}|TP1.vcxproj|solutionrelative:Armure.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAABAB01-EFAC-4FE8-AE2F-CEB3A74B72E3}|TP1.vcxproj|C:\\Users\\hlemineu\\OneDrive - Universit\u00E9 de Namur\\Documents\\Master\\Master 2\\Simulation de dose\\TP1\\Personnage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAABAB01-EFAC-4FE8-AE2F-CEB3A74B72E3}|TP1.vcxproj|solutionrelative:Personnage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAABAB01-EFAC-4FE8-AE2F-CEB3A74B72E3}|TP1.vcxproj|C:\\Users\\hlemineu\\OneDrive - Universit\u00E9 de Namur\\Documents\\Master\\Master 2\\Simulation de dose\\TP1\\Personnage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAABAB01-EFAC-4FE8-AE2F-CEB3A74B72E3}|TP1.vcxproj|solutionrelative:Personnage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAABAB01-EFAC-4FE8-AE2F-CEB3A74B72E3}|TP1.vcxproj|C:\\Users\\hlemineu\\OneDrive - Universit\u00E9 de Namur\\Documents\\Master\\Master 2\\Simulation de dose\\TP1\\Armure.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAABAB01-EFAC-4FE8-AE2F-CEB3A74B72E3}|TP1.vcxproj|solutionrelative:Armure.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAABAB01-EFAC-4FE8-AE2F-CEB3A74B72E3}|TP1.vcxproj|C:\\Users\\hlemineu\\OneDrive - Universit\u00E9 de Namur\\Documents\\Master\\Master 2\\Simulation de dose\\TP1\\Guerrier.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAABAB01-EFAC-4FE8-AE2F-CEB3A74B72E3}|TP1.vcxproj|solutionrelative:Guerrier.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAABAB01-EFAC-4FE8-AE2F-CEB3A74B72E3}|TP1.vcxproj|C:\\Users\\hlemineu\\OneDrive - Universit\u00E9 de Namur\\Documents\\Master\\Master 2\\Simulation de dose\\TP1\\Guerrier.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAABAB01-EFAC-4FE8-AE2F-CEB3A74B72E3}|TP1.vcxproj|solutionrelative:Guerrier.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 266,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\hlemineu\\OneDrive - Universit\u00E9 de Namur\\Documents\\Master\\Master 2\\Simulation de dose\\TP1\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\hlemineu\\OneDrive - Universit\u00E9 de Namur\\Documents\\Master\\Master 2\\Simulation de dose\\TP1\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-18T13:47:57.074Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Guerrier.h",
+              "DocumentMoniker": "C:\\Users\\hlemineu\\OneDrive - Universit\u00E9 de Namur\\Documents\\Master\\Master 2\\Simulation de dose\\TP1\\Guerrier.h",
+              "RelativeDocumentMoniker": "Guerrier.h",
+              "ToolTip": "C:\\Users\\hlemineu\\OneDrive - Universit\u00E9 de Namur\\Documents\\Master\\Master 2\\Simulation de dose\\TP1\\Guerrier.h",
+              "RelativeToolTip": "Guerrier.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-19T08:39:22.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Guerrier.cpp",
+              "DocumentMoniker": "C:\\Users\\hlemineu\\OneDrive - Universit\u00E9 de Namur\\Documents\\Master\\Master 2\\Simulation de dose\\TP1\\Guerrier.cpp",
+              "RelativeDocumentMoniker": "Guerrier.cpp",
+              "ToolTip": "C:\\Users\\hlemineu\\OneDrive - Universit\u00E9 de Namur\\Documents\\Master\\Master 2\\Simulation de dose\\TP1\\Guerrier.cpp",
+              "RelativeToolTip": "Guerrier.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-19T08:32:39.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Armure.cpp",
+              "DocumentMoniker": "C:\\Users\\hlemineu\\OneDrive - Universit\u00E9 de Namur\\Documents\\Master\\Master 2\\Simulation de dose\\TP1\\Armure.cpp",
+              "RelativeDocumentMoniker": "Armure.cpp",
+              "ToolTip": "C:\\Users\\hlemineu\\OneDrive - Universit\u00E9 de Namur\\Documents\\Master\\Master 2\\Simulation de dose\\TP1\\Armure.cpp",
+              "RelativeToolTip": "Armure.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-19T08:31:38.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Personnage.cpp",
+              "DocumentMoniker": "C:\\Users\\hlemineu\\OneDrive - Universit\u00E9 de Namur\\Documents\\Master\\Master 2\\Simulation de dose\\TP1\\Personnage.cpp",
+              "RelativeDocumentMoniker": "Personnage.cpp",
+              "ToolTip": "C:\\Users\\hlemineu\\OneDrive - Universit\u00E9 de Namur\\Documents\\Master\\Master 2\\Simulation de dose\\TP1\\Personnage.cpp",
+              "RelativeToolTip": "Personnage.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-18T13:53:58.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Personnage.h",
+              "DocumentMoniker": "C:\\Users\\hlemineu\\OneDrive - Universit\u00E9 de Namur\\Documents\\Master\\Master 2\\Simulation de dose\\TP1\\Personnage.h",
+              "RelativeDocumentMoniker": "Personnage.h",
+              "ToolTip": "C:\\Users\\hlemineu\\OneDrive - Universit\u00E9 de Namur\\Documents\\Master\\Master 2\\Simulation de dose\\TP1\\Personnage.h",
+              "RelativeToolTip": "Personnage.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-18T13:49:08.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Armure.h",
+              "DocumentMoniker": "C:\\Users\\hlemineu\\OneDrive - Universit\u00E9 de Namur\\Documents\\Master\\Master 2\\Simulation de dose\\TP1\\Armure.h",
+              "RelativeDocumentMoniker": "Armure.h",
+              "ToolTip": "C:\\Users\\hlemineu\\OneDrive - Universit\u00E9 de Namur\\Documents\\Master\\Master 2\\Simulation de dose\\TP1\\Armure.h",
+              "RelativeToolTip": "Armure.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-19T08:30:07.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mage.cpp",
+              "DocumentMoniker": "C:\\Users\\hlemineu\\OneDrive - Universit\u00E9 de Namur\\Documents\\Master\\Master 2\\Simulation de dose\\TP1\\Mage.cpp",
+              "RelativeDocumentMoniker": "Mage.cpp",
+              "ToolTip": "C:\\Users\\hlemineu\\OneDrive - Universit\u00E9 de Namur\\Documents\\Master\\Master 2\\Simulation de dose\\TP1\\Mage.cpp",
+              "RelativeToolTip": "Mage.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-18T16:54:48.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Arme.h",
+              "DocumentMoniker": "C:\\Users\\hlemineu\\OneDrive - Universit\u00E9 de Namur\\Documents\\Master\\Master 2\\Simulation de dose\\TP1\\Arme.h",
+              "RelativeDocumentMoniker": "Arme.h",
+              "ToolTip": "C:\\Users\\hlemineu\\OneDrive - Universit\u00E9 de Namur\\Documents\\Master\\Master 2\\Simulation de dose\\TP1\\Arme.h",
+              "RelativeToolTip": "Arme.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-19T08:37:39.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mage.h",
+              "DocumentMoniker": "C:\\Users\\hlemineu\\OneDrive - Universit\u00E9 de Namur\\Documents\\Master\\Master 2\\Simulation de dose\\TP1\\Mage.h",
+              "RelativeDocumentMoniker": "Mage.h",
+              "ToolTip": "C:\\Users\\hlemineu\\OneDrive - Universit\u00E9 de Namur\\Documents\\Master\\Master 2\\Simulation de dose\\TP1\\Mage.h",
+              "RelativeToolTip": "Mage.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-18T16:48:36.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Arme.cpp",
+              "DocumentMoniker": "C:\\Users\\hlemineu\\OneDrive - Universit\u00E9 de Namur\\Documents\\Master\\Master 2\\Simulation de dose\\TP1\\Arme.cpp",
+              "RelativeDocumentMoniker": "Arme.cpp",
+              "ToolTip": "C:\\Users\\hlemineu\\OneDrive - Universit\u00E9 de Namur\\Documents\\Master\\Master 2\\Simulation de dose\\TP1\\Arme.cpp",
+              "RelativeToolTip": "Arme.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-18T13:58:58.051Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

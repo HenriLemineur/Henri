@@ -1,0 +1,10 @@
+^C:\USERS\HLEMINEU\ONEDRIVE - UNIVERSITÉ DE NAMUR\DOCUMENTS\MASTER\MASTER 2\SIMULATION DE DOSE\EXAMEN\GERMANIUM\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/hlemineu/OneDrive - Université de Namur/Documents/Master/Master 2/Simulation de dose/Examen/Germanium" "-BC:/Users/hlemineu/OneDrive - Université de Namur/Documents/Master/Master 2/Simulation de dose/Examen/Germanium-Build" --check-stamp-file "C:/Users/hlemineu/OneDrive - Université de Namur/Documents/Master/Master 2/Simulation de dose/Examen/Germanium-Build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

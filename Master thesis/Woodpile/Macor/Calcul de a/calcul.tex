@@ -1,0 +1,110 @@
+\documentclass{article}
+\usepackage{amsmath}
+
+\begin{document}
+
+\title{Calcul du Facteur \( a \) pour Différentes Bandes de Fréquence}
+\author{}
+\date{}
+\maketitle
+
+\section{Introduction}
+Pour maximiser la réflectivité, nous devons choisir une géométrie de cristal qui possède un gap de bande photonique tout en restant réalisable sur le plan pratique. Dans cet exemple conceptuel bidimensionnel, nous étudions une structure woodpile réalisée en Macor, un matériau diélectrique céramique avec une permittivité relative \( \epsilon_r = 5.64 \). Cette géométrie présente de grands gaps de bande pour les modes TM, ce qui en fait une option intéressante pour des applications photoniques.
+
+\section{Théorie}
+La longueur d'onde \( \lambda \) est liée à la fréquence \( f \) par la relation :
+\[
+\lambda = \frac{c}{f}
+\]
+où \( c \) est la vitesse de la lumière dans le vide (\( c \approx 3 \times 10^8 \) m/s).
+
+La constante du réseau \( a \) est alors donnée par :
+\[
+a = \lambda \times \text{fréquence normalisée}
+\]
+Dans notre cas, la fréquence normalisée est de 0.68.
+
+\section{Calculs}
+Nous allons calculer \( a \) pour les bandes de fréquence suivantes : X-Band, Ku-Band, K-Band, et Ka-Band.
+
+\subsection{X-Band (8.2–12.4 GHz)}
+Pour \( f_{\text{min}} = 8.2 \times 10^9 \) Hz :
+\[
+\lambda_{\text{min}} = \frac{3 \times 10^8}{8.2 \times 10^9} = 3.66 \times 10^{-2} \text{ m}
+\]
+\[
+a_{\text{min}} = 3.66 \times 10^{-2} \times 0.68 = 2.488 \times 10^{-2} \text{ m}
+\]
+
+Pour \( f_{\text{max}} = 12.4 \times 10^9 \) Hz :
+\[
+\lambda_{\text{max}} = \frac{3 \times 10^8}{12.4 \times 10^9} = 2.42 \times 10^{-2} \text{ m}
+\]
+\[
+a_{\text{max}} = 2.42 \times 10^{-2} \times 0.68 = 1.645 \times 10^{-2} \text{ m}
+\]
+
+\subsection{Ku-Band (12.4–18 GHz)}
+Pour \( f_{\text{min}} = 12.4 \times 10^9 \) Hz :
+\[
+\lambda_{\text{min}} = 2.42 \times 10^{-2} \text{ m}
+\]
+\[
+a_{\text{min}} = 2.42 \times 10^{-2} \times 0.68 = 1.645 \times 10^{-2} \text{ m}
+\]
+
+Pour \( f_{\text{max}} = 18 \times 10^9 \) Hz :
+\[
+\lambda_{\text{max}} = \frac{3 \times 10^8}{18 \times 10^9} = 1.67 \times 10^{-2} \text{ m}
+\]
+\[
+a_{\text{max}} = 1.67 \times 10^{-2} \times 0.68 = 1.133 \times 10^{-2} \text{ m}
+\]
+
+\subsection{K-Band (18–26.5 GHz)}
+Pour \( f_{\text{min}} = 18 \times 10^9 \) Hz :
+\[
+\lambda_{\text{min}} = 1.67 \times 10^{-2} \text{ m}
+\]
+\[
+a_{\text{min}} = 1.67 \times 10^{-2} \times 0.68 = 1.133 \times 10^{-2} \text{ m}
+\]
+
+Pour \( f_{\text{max}} = 26.5 \times 10^9 \) Hz :
+\[
+\lambda_{\text{max}} = \frac{3 \times 10^8}{26.5 \times 10^9} = 1.13 \times 10^{-2} \text{ m}
+\]
+\[
+a_{\text{max}} = 1.13 \times 10^{-2} \times 0.68 = 7.698 \times 10^{-3} \text{ m}
+\]
+
+\subsection{Ka-Band (26.5–40 GHz)}
+Pour \( f_{\text{min}} = 26.5 \times 10^9 \) Hz :
+\[
+\lambda_{\text{min}} = 1.13 \times 10^{-2} \text{ m}
+\]
+\[
+a_{\text{min}} = 1.13 \times 10^{-2} \times 0.68 = 7.698 \times 10^{-3} \text{ m}
+\]
+
+Pour \( f_{\text{max}} = 40 \times 10^9 \) Hz :
+\[
+\lambda_{\text{max}} = \frac{3 \times 10^8}{40 \times 10^9} = 7.5 \times 10^{-3} \text{ m}
+\]
+\[
+a_{\text{max}} = 7.5 \times 10^{-3} \times 0.68 = 5.10 \times 10^{-3} \text{ m}
+\]
+
+\section{Conclusion}
+En résumé, les valeurs de la constante du réseau \( a \) pour les différentes bandes de fréquence sont les suivantes :
+
+\begin{itemize}
+    \item \textbf{X-Band (8.2–12.4 GHz)} : \( a \) varie de \( 2.488 \times 10^{-2} \) m à \( 1.645 \times 10^{-2} \) m
+    \item \textbf{Ku-Band (12.4–18 GHz)} : \( a \) varie de \( 1.645 \times 10^{-2} \) m à \( 1.133 \times 10^{-2} \) m
+    \item \textbf{K-Band (18–26.5 GHz)} : \( a \) varie de \( 1.133 \times 10^{-2} \) m à \( 7.698 \times 10^{-3} \) m
+    \item \textbf{Ka-Band (26.5–40 GHz)} : \( a \) varie de \( 7.698 \times 10^{-3} \) m à \( 5.10 \times 10^{-3} \) m
+\end{itemize}
+
+Ces résultats montrent comment la constante du réseau \( a \) change en fonction des différentes bandes de fréquence, ce qui est crucial pour la conception de structures photoniques avec des gaps de bande spécifiques.
+
+\end{document}

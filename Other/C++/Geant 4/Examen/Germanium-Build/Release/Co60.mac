@@ -1,0 +1,32 @@
+/run/initialize
+
+# Définir les paramètres communs de la source GPS
+/gps/pos/type Volume
+/gps/pos/shape Cylinder
+/gps/pos/radius 0.5 cm  
+/gps/pos/halfz 1 cm     
+/gps/pos/centre 0 0 10.05 cm  
+/gps/pos/rot1 0 1 0     
+
+/gps/ang/type iso
+
+/gps/particle gamma
+/gps/energy 1.173 MeV
+/gps/source/intensity 99.88
+
+/gps/source/add 1
+/gps/pos/type Volume
+/gps/pos/shape Cylinder
+/gps/pos/radius 0.5 cm  
+/gps/pos/halfz 1 cm     
+/gps/pos/centre 0 0 10.05 cm  
+/gps/pos/rot1 0 1 0     
+
+/gps/ang/type iso
+
+/gps/particle gamma
+/gps/energy 1332 keV
+/gps/source/intensity 100
+
+# Lancer la simulation avec 10^7 (dix millions) de particules
+/run/beamOn 10000000

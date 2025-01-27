@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\hlemineu\OneDrive - Université de Namur\Documents\Master\Master 2\Simulation de dose\Examen\Germanium-Build\Release\Germanium.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\hlemineu\OneDrive - Université de Namur\Documents\Master\Master 2\Simulation de dose\Examen\Germanium-Build\x64\Release\ALL_BUILD</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs>
+    <NonRecipeFileRef>
+      <FullPath>C:\Users\hlemineu\OneDrive - Université de Namur\Documents\Master\Master 2\Simulation de dose\Examen\Germanium-Build\ZERO_CHECK.proj</FullPath>
+    </NonRecipeFileRef>
+  </NonRecipeFileRefs>
+</Project>

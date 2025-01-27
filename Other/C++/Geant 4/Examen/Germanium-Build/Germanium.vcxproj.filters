@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\hlemineu\OneDrive - Université de Namur\Documents\Master\Master 2\Simulation de dose\Examen\Germanium\Germanium.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hlemineu\OneDrive - Université de Namur\Documents\Master\Master 2\Simulation de dose\Examen\Germanium\src\ActionInitialization.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hlemineu\OneDrive - Université de Namur\Documents\Master\Master 2\Simulation de dose\Examen\Germanium\src\DetectorConstruction.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hlemineu\OneDrive - Université de Namur\Documents\Master\Master 2\Simulation de dose\Examen\Germanium\src\EventAction.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hlemineu\OneDrive - Université de Namur\Documents\Master\Master 2\Simulation de dose\Examen\Germanium\src\PrimaryGeneratorAction.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hlemineu\OneDrive - Université de Namur\Documents\Master\Master 2\Simulation de dose\Examen\Germanium\src\RunAction.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\hlemineu\OneDrive - Université de Namur\Documents\Master\Master 2\Simulation de dose\Examen\Germanium\src\SteppingAction.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\hlemineu\OneDrive - Université de Namur\Documents\Master\Master 2\Simulation de dose\Examen\Germanium\include\ActionInitialization.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\hlemineu\OneDrive - Université de Namur\Documents\Master\Master 2\Simulation de dose\Examen\Germanium\include\DetectorConstruction.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\hlemineu\OneDrive - Université de Namur\Documents\Master\Master 2\Simulation de dose\Examen\Germanium\include\EventAction.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\hlemineu\OneDrive - Université de Namur\Documents\Master\Master 2\Simulation de dose\Examen\Germanium\include\PrimaryGeneratorAction.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\hlemineu\OneDrive - Université de Namur\Documents\Master\Master 2\Simulation de dose\Examen\Germanium\include\RunAction.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\hlemineu\OneDrive - Université de Namur\Documents\Master\Master 2\Simulation de dose\Examen\Germanium\include\SteppingAction.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\hlemineu\OneDrive - Université de Namur\Documents\Master\Master 2\Simulation de dose\Examen\Germanium\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{0C00A48F-AD42-3632-B36F-A4C881BC427C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{428B97E8-901B-3BCF-9DD4-BD753E7A5884}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

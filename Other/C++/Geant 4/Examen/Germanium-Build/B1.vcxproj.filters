@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\hlemineu\OneDrive - Université de Namur\Documents\Master\Master 2\Simulation de dose\Examen\Germanium-Build\CMakeFiles\43803f1d0a381a5b07fba3dfc0458c28\B1.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\hlemineu\OneDrive - Université de Namur\Documents\Master\Master 2\Simulation de dose\Examen\Germanium\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\hlemineu\OneDrive - Université de Namur\Documents\Master\Master 2\Simulation de dose\Examen\Germanium-Build\CMakeFiles\B1" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{8FC5DF7B-FE7B-309B-98D2-900355B5515B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
