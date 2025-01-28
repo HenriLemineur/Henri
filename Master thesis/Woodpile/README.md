@@ -9,8 +9,8 @@ This directory contains the code and research related to my Master's thesis, whi
    - **Séquentiel**: The code that runs calculations in a single-threaded manner.
    - **Parallèle**: An optimized version of the code that uses parallel computing to improve the performance and reduce computation time.
 
-### 2. **Macro**
-   The **Macro** folder contains:
+### 2. **Macor**
+   The **Macor** folder contains:
    - An example of how to use the code, including input parameters and simulation setup.
    - A code to calculate "a", the lattice parameter for the woodpile structure.
 
