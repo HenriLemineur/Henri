@@ -60,7 +60,7 @@ Feel free to reach out to me for any questions, collaborations, or feedback!
 
 - **Email:** [henri.lemineur@gmail.com](mailto:henri.lemineur@gmail.com)  
 - **Phone:** +32 0477 563 255  
-- **LinkedIn:** [linkedin.com/in/henri-lemineur](https://www.linkedin.com/in/henri-lemineur/)  
+- **LinkedIn:** [Henri Lemineur](https://www.linkedin.com/in/henri-lemineur-36a97132a)
 
 ---
 
